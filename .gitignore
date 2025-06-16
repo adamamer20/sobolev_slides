@@ -1,7 +1,22 @@
+# Dependencies
 node_modules
-.DS_Store
-dist
 *.local
+
+# Build outputs
+dist
 .vite-inspect
 .remote-assets
+
+# Generated files
 components.d.ts
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/settings.json
+.idea/
+
+# Slidev specific
+.slidev/

@@ -1,11 +1,12 @@
 {
-  "name": "slides",
+  "name": "sobolev-slides",
   "type": "module",
   "private": true,
   "scripts": {
-    "build": "slidev build",
+    "build": "slidev build --base /sobolev_slides/",
     "dev": "slidev --open",
-    "export": "slidev export"
+    "export": "slidev export",
+    "preview": "slidev build --base /sobolev_slides/ && npx serve dist"
   },
   "dependencies": {
     "@slidev/cli": "^51.8.1",

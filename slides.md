@@ -5,11 +5,12 @@ title: Sobolev Embeddings on a Bounded Domain
 info: |
   ## Sobolev Embeddings on a Bounded Domain
   Presentation on Theorem 2, Theorem 3, and PDE Application
-class: text-center text-white  
+class: text-center text-white
 drawings:
   persist: false
 transition: slide-left
 mdc: true
+base: /sobolev_slides/
 ---
 
 # Sobolev Embeddings on a Bounded Domain
