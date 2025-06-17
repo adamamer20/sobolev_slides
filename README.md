@@ -37,7 +37,7 @@ This presentation provides rigorous proofs and applications of key embedding the
 
 ## 🌐 Live Demo
 
-🚀 **[View Live Presentation](https://adamamer20.github.io/sobolev_slides/)** *(Replace 'adamamer20' with actual GitHub username)*
+🚀 **[View Live Presentation](https://adamamer20.github.io/sobolev_slides/)** 
 
 ## 🚀 Quick Start
 
@@ -75,7 +75,7 @@ The repository is configured with GitHub Actions for automatic deployment:
 
 - **Automatic deployment**: Push to `main` branch triggers deployment
 - **Manual deployment**: Use "Actions" tab → "Deploy Slidev to GitHub Pages" → "Run workflow"
-- **Live URL**: `https://adamamer20.github.io/sobolev_slides/` (replace with your username)
+- **Live URL**: `https://adamamer20.github.io/sobolev_slides/`
 
 ```bash
 # Manual build (optional)
